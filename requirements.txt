@@ -1,0 +1,6 @@
+pyrogram>=2.0.0
+TgCrypto
+yt-dlp
+requests
+flask
+aiohttp

@@ -1,0 +1,2185 @@
+2025-03-28 07:45:16,729 - __main__ - INFO - ----- Bot Iniciado -----
+2025-03-28 07:45:16,768 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.88:8080
+2025-03-28 07:45:16,768 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-28 07:45:17,044 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 07:45:17,126 - pyrogram.connection.connection - INFO - Connected! Production DC1 - IPv4
+2025-03-28 07:45:17,127 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 07:45:17,504 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 07:45:17,504 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 07:45:17,504 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 07:45:17,504 - pyrogram.session.session - INFO - Session started
+2025-03-28 07:45:17,506 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 07:45:17,694 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2025-03-28 07:48:57,782 - __main__ - ERROR - Erro ao adicionar legenda: Telegram says: [400 MESSAGE_ID_INVALID] - The message id is invalid (caused by "messages.EditMessage")
+2025-03-28 07:50:57,231 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 07:50:57,311 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 07:50:57,312 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 07:50:57,681 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 07:50:57,681 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 07:50:57,682 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 07:50:57,682 - pyrogram.session.session - INFO - Session started
+2025-03-28 07:50:57,682 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 07:50:57,844 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 07:50:57,845 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 07:50:57,845 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 07:50:57,845 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 07:50:57,849 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 07:50:57,935 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 07:50:57,936 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 07:50:58,334 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 07:50:58,334 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 07:50:58,334 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 07:50:58,334 - pyrogram.session.session - INFO - Session started
+2025-03-28 07:50:58,335 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 07:51:10,289 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 07:51:10,294 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 07:51:10,295 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 07:51:10,296 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 07:52:28,903 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 07:52:28,973 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 07:52:28,974 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 07:52:29,303 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 07:52:29,303 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 07:52:29,304 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 07:52:29,304 - pyrogram.session.session - INFO - Session started
+2025-03-28 07:52:29,305 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 07:52:29,453 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 07:52:29,453 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 07:52:29,453 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 07:52:29,453 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 07:52:29,457 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 07:52:29,526 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 07:52:29,527 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 07:52:29,857 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 07:52:29,857 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 07:52:29,857 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 07:52:29,857 - pyrogram.session.session - INFO - Session started
+2025-03-28 07:52:29,858 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 07:52:41,624 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 07:52:41,625 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 07:52:41,626 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 07:52:41,626 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 07:52:52,766 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 07:52:52,837 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 07:52:52,838 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 07:52:53,168 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 07:52:53,169 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 07:52:53,169 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 07:52:53,169 - pyrogram.session.session - INFO - Session started
+2025-03-28 07:52:53,170 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 07:52:53,316 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 07:52:53,316 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 07:52:53,316 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 07:52:53,317 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 07:52:53,320 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 07:52:53,391 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 07:52:53,391 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 07:52:53,744 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 07:52:53,744 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 07:52:53,744 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 07:52:53,744 - pyrogram.session.session - INFO - Session started
+2025-03-28 07:52:53,745 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 07:53:07,901 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 07:53:07,902 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 07:53:07,902 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 07:53:07,902 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 07:56:38,819 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 07:56:38,890 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 07:56:38,890 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 07:56:39,221 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 07:56:39,221 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 07:56:39,221 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 07:56:39,222 - pyrogram.session.session - INFO - Session started
+2025-03-28 07:56:39,222 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 07:56:39,367 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 07:56:39,367 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 07:56:39,367 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 07:56:39,367 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 07:56:39,372 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 07:56:39,441 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 07:56:39,441 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 07:56:39,770 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 07:56:39,770 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 07:56:39,770 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 07:56:39,770 - pyrogram.session.session - INFO - Session started
+2025-03-28 07:56:39,771 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 07:56:51,543 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 07:56:51,543 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 07:56:51,543 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 07:56:51,543 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 07:57:17,669 - __main__ - ERROR - Erro ao adicionar legenda: Telegram says: [400 MESSAGE_NOT_MODIFIED] - The message was not modified because you tried to edit it using the same content (caused by "messages.EditMessage")
+2025-03-28 08:02:55,970 - __main__ - INFO - Comando /start recebido em ChatType.PRIVATE (ID: 940793418)
+2025-03-28 08:11:23,925 - __main__ - INFO - ----- Bot Iniciado -----
+2025-03-28 08:11:23,960 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.20:8080
+2025-03-28 08:11:23,960 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-28 08:11:24,196 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 08:11:24,265 - pyrogram.connection.connection - INFO - Connected! Production DC1 - IPv4
+2025-03-28 08:11:24,268 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 08:11:24,593 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 08:11:24,593 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 08:11:24,594 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 08:11:24,594 - pyrogram.session.session - INFO - Session started
+2025-03-28 08:11:24,596 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 08:11:24,761 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2025-03-28 08:11:38,911 - werkzeug - INFO - 172.31.128.20 - - [28/Mar/2025 08:11:38] "GET / HTTP/1.1" 200 -
+2025-03-28 08:13:22,283 - __main__ - INFO - Comando /start recebido em ChatType.PRIVATE (ID: 940793418)
+2025-03-28 08:14:13,865 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 08:14:13,948 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 08:14:13,948 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 08:14:14,332 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 08:14:14,332 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 08:14:14,333 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 08:14:14,333 - pyrogram.session.session - INFO - Session started
+2025-03-28 08:14:14,336 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 08:14:14,510 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 08:14:14,510 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 08:14:14,511 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 08:14:14,511 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 08:14:14,514 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 08:14:14,585 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 08:14:14,585 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 08:14:14,915 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 08:14:14,915 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 08:14:14,916 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 08:14:14,916 - pyrogram.session.session - INFO - Session started
+2025-03-28 08:14:14,916 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 08:14:26,686 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 08:14:26,687 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 08:14:26,687 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 08:14:26,687 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 08:14:52,046 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 08:14:52,115 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 08:14:52,116 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 08:14:52,438 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 08:14:52,438 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 08:14:52,438 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 08:14:52,438 - pyrogram.session.session - INFO - Session started
+2025-03-28 08:14:52,439 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 08:14:52,579 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 08:14:52,580 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 08:14:52,580 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 08:14:52,580 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 08:14:52,584 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 08:14:52,653 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 08:14:52,653 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 08:14:52,982 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 08:14:52,982 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 08:14:52,982 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 08:14:52,982 - pyrogram.session.session - INFO - Session started
+2025-03-28 08:14:52,983 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 08:15:04,742 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 08:15:04,742 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 08:15:04,742 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 08:15:04,743 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 08:16:21,198 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 08:16:21,269 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 08:16:21,269 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 08:16:21,603 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 08:16:21,603 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 08:16:21,604 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 08:16:21,604 - pyrogram.session.session - INFO - Session started
+2025-03-28 08:16:21,604 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 08:16:21,749 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 08:16:21,750 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 08:16:21,750 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 08:16:21,751 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 08:16:21,754 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 08:16:21,825 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 08:16:21,826 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 08:16:22,156 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 08:16:22,156 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 08:16:22,156 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 08:16:22,157 - pyrogram.session.session - INFO - Session started
+2025-03-28 08:16:22,157 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 08:16:36,968 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 08:16:36,969 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 08:16:36,969 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 08:16:36,969 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 08:20:35,415 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 08:20:35,490 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 08:20:35,490 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 08:20:35,821 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 08:20:35,821 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 08:20:35,821 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 08:20:35,821 - pyrogram.session.session - INFO - Session started
+2025-03-28 08:20:35,822 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 08:20:36,205 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 08:20:36,205 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 08:20:36,206 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 08:20:36,206 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 08:20:36,210 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 08:20:36,280 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 08:20:36,280 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 08:20:36,610 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 08:20:36,610 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 08:20:36,610 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 08:20:36,610 - pyrogram.session.session - INFO - Session started
+2025-03-28 08:20:36,611 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 08:21:14,334 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 08:21:14,335 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 08:21:14,335 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 08:21:14,335 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 08:39:14,196 - __main__ - INFO - Comando /start recebido em ChatType.PRIVATE (ID: 940793418)
+2025-03-28 08:39:20,100 - __main__ - INFO - Comando /start recebido em ChatType.PRIVATE (ID: 940793418)
+2025-03-28 08:40:56,454 - root - INFO - Stop signal received (SIGTERM). Exiting...
+2025-03-28 08:40:56,838 - pyrogram.dispatcher - INFO - Stopped 12 HandlerTasks
+2025-03-28 08:40:56,839 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 08:40:56,839 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 08:40:56,839 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 08:40:56,839 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 08:41:17,068 - __main__ - INFO - ----- Bot Iniciado -----
+2025-03-28 08:41:17,095 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.20:8080
+2025-03-28 08:41:17,096 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-28 08:41:17,396 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 08:41:17,466 - pyrogram.connection.connection - INFO - Connected! Production DC1 - IPv4
+2025-03-28 08:41:17,467 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 08:41:17,793 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 08:41:17,793 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 08:41:17,793 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 08:41:17,793 - pyrogram.session.session - INFO - Session started
+2025-03-28 08:41:17,795 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 08:41:17,952 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2025-03-28 08:41:21,892 - __main__ - INFO - Comando /start recebido em ChatType.PRIVATE (ID: 940793418)
+2025-03-28 08:42:37,973 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 08:42:38,053 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 08:42:38,055 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 08:42:38,424 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 08:42:38,425 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 08:42:38,425 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 08:42:38,425 - pyrogram.session.session - INFO - Session started
+2025-03-28 08:42:38,435 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 08:42:38,599 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 08:42:38,600 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 08:42:38,600 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 08:42:38,601 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 08:42:38,604 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 08:42:38,679 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 08:42:38,679 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 08:42:39,031 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 08:42:39,031 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 08:42:39,031 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 08:42:39,031 - pyrogram.session.session - INFO - Session started
+2025-03-28 08:42:39,032 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 08:42:50,839 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 08:42:50,840 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 08:42:50,840 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 08:42:50,840 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 08:45:19,741 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 08:45:19,811 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 08:45:19,812 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 08:45:20,143 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 08:45:20,144 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 08:45:20,144 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 08:45:20,144 - pyrogram.session.session - INFO - Session started
+2025-03-28 08:45:20,144 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 08:45:20,508 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 08:45:20,509 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 08:45:20,509 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 08:45:20,509 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 08:45:20,512 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 08:45:20,583 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 08:45:20,583 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 08:45:20,919 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 08:45:20,919 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 08:45:20,919 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 08:45:20,919 - pyrogram.session.session - INFO - Session started
+2025-03-28 08:45:20,920 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 08:45:24,520 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 08:45:24,520 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 08:45:24,520 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 08:45:24,520 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 08:46:27,196 - root - INFO - Stop signal received (SIGTERM). Exiting...
+2025-03-28 08:46:29,771 - pyrogram.dispatcher - INFO - Stopped 12 HandlerTasks
+2025-03-28 08:46:29,771 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 08:46:29,772 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 08:46:29,772 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 08:46:29,772 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 09:17:48,098 - __main__ - INFO - ----- Bot Iniciado -----
+2025-03-28 09:17:48,572 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 09:17:48,650 - pyrogram.connection.connection - INFO - Connected! Production DC1 - IPv4
+2025-03-28 09:17:48,653 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 09:17:48,993 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 09:17:48,994 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 09:17:48,994 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 09:17:48,994 - pyrogram.session.session - INFO - Session started
+2025-03-28 09:17:48,997 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 09:17:49,169 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2025-03-28 09:18:29,869 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 09:18:29,940 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 09:18:29,941 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 09:18:30,284 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 09:18:30,285 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 09:18:30,287 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 09:18:30,287 - pyrogram.session.session - INFO - Session started
+2025-03-28 09:18:30,288 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 09:18:30,646 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 09:18:30,647 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 09:18:30,647 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 09:18:30,648 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 09:18:30,651 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 09:18:30,721 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 09:18:30,722 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 09:18:31,060 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 09:18:31,060 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 09:18:31,061 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 09:18:31,061 - pyrogram.session.session - INFO - Session started
+2025-03-28 09:18:31,065 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 09:18:33,701 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 09:18:33,702 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 09:18:33,702 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 09:18:33,702 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 09:22:28,126 - root - INFO - Stop signal received (SIGTERM). Exiting...
+2025-03-28 09:22:30,533 - pyrogram.dispatcher - INFO - Stopped 12 HandlerTasks
+2025-03-28 09:22:30,533 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 09:22:30,534 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 09:22:30,534 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 09:22:30,534 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 09:33:00,488 - __main__ - INFO - ----- Bot Iniciado -----
+2025-03-28 09:33:00,878 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 09:33:00,949 - pyrogram.connection.connection - INFO - Connected! Production DC1 - IPv4
+2025-03-28 09:33:00,950 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 09:33:01,280 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 09:33:01,281 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 09:33:01,281 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 09:33:01,281 - pyrogram.session.session - INFO - Session started
+2025-03-28 09:33:01,284 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 09:33:01,438 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2025-03-28 09:33:08,638 - root - INFO - Stop signal received (SIGTERM). Exiting...
+2025-03-28 09:33:11,347 - pyrogram.dispatcher - INFO - Stopped 12 HandlerTasks
+2025-03-28 09:33:11,348 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 09:33:11,349 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 09:33:11,349 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 09:33:11,349 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 09:33:34,492 - __main__ - INFO - ----- Bot Iniciado -----
+2025-03-28 09:33:34,780 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 09:33:34,852 - pyrogram.connection.connection - INFO - Connected! Production DC1 - IPv4
+2025-03-28 09:33:34,853 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 09:33:35,190 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 09:33:35,190 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 09:33:35,191 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 09:33:35,191 - pyrogram.session.session - INFO - Session started
+2025-03-28 09:33:35,193 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 09:33:35,351 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2025-03-28 09:34:14,928 - __main__ - WARNING - Tentando fallback: [0;31mERROR:[0m [generic] 12873276_1080_1920_30fps: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 09:34:21,193 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 09:34:21,264 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 09:34:21,264 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 09:34:21,597 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 09:34:21,598 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 09:34:21,598 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 09:34:21,598 - pyrogram.session.session - INFO - Session started
+2025-03-28 09:34:21,599 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 09:34:21,956 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 09:34:21,957 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 09:34:21,957 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 09:34:21,957 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 09:34:21,960 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 09:34:22,030 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 09:34:22,031 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 09:34:22,367 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 09:34:22,368 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 09:34:22,368 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 09:34:22,368 - pyrogram.session.session - INFO - Session started
+2025-03-28 09:34:22,369 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 09:34:25,025 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 09:34:25,026 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 09:34:25,026 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 09:34:25,026 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 09:43:43,868 - root - INFO - Stop signal received (SIGTERM). Exiting...
+2025-03-28 09:51:00,923 - __main__ - INFO - ----- Bot Iniciado -----
+2025-03-28 09:51:01,283 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 09:51:01,371 - pyrogram.connection.connection - INFO - Connected! Production DC1 - IPv4
+2025-03-28 09:51:01,372 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 09:51:01,772 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 09:51:01,772 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 09:51:01,772 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 09:51:01,773 - pyrogram.session.session - INFO - Session started
+2025-03-28 09:51:01,774 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 09:51:01,967 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2025-03-28 09:51:13,052 - __main__ - WARNING - Tentando fallback: [0;31mERROR:[0m [generic] 25: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 09:51:30,272 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 09:51:30,342 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 09:51:30,343 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 09:51:30,673 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 09:51:30,674 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 09:51:30,674 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 09:51:30,674 - pyrogram.session.session - INFO - Session started
+2025-03-28 09:51:30,675 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 09:51:30,819 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 09:51:30,819 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 09:51:30,819 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 09:51:30,819 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 09:51:30,824 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 09:51:30,894 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 09:51:30,894 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 09:51:31,221 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 09:51:31,221 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 09:51:31,221 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 09:51:31,222 - pyrogram.session.session - INFO - Session started
+2025-03-28 09:51:31,222 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 09:51:42,991 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 09:51:42,991 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 09:51:42,992 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 09:51:42,992 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 09:51:59,019 - __main__ - WARNING - Tentando fallback: [0;31mERROR:[0m [generic] 12873276_1080_1920_30fps: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 09:52:02,893 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 09:52:02,962 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 09:52:02,963 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 09:52:03,288 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 09:52:03,289 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 09:52:03,289 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 09:52:03,289 - pyrogram.session.session - INFO - Session started
+2025-03-28 09:52:03,290 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 09:52:03,643 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 09:52:03,644 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 09:52:03,644 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 09:52:03,644 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 09:52:03,648 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 09:52:03,734 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 09:52:03,735 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 09:52:04,132 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 09:52:04,132 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 09:52:04,132 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 09:52:04,132 - pyrogram.session.session - INFO - Session started
+2025-03-28 09:52:04,133 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 09:52:07,737 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 09:52:07,737 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 09:52:07,737 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 09:52:07,737 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 09:59:17,818 - __main__ - WARNING - Tentando fallback: [0;31mERROR:[0m [generic] 25: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 09:59:28,603 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 09:59:28,672 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 09:59:28,672 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 09:59:28,993 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 09:59:28,993 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 09:59:28,993 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 09:59:28,994 - pyrogram.session.session - INFO - Session started
+2025-03-28 09:59:28,994 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 09:59:29,135 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 09:59:29,135 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 09:59:29,135 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 09:59:29,135 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 09:59:29,139 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 09:59:29,210 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 09:59:29,210 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 09:59:29,540 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 09:59:29,540 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 09:59:29,540 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 09:59:29,540 - pyrogram.session.session - INFO - Session started
+2025-03-28 09:59:29,541 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 09:59:41,315 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 09:59:41,316 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 09:59:41,316 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 09:59:41,316 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:00:01,238 - __main__ - WARNING - Tentando fallback: [0;31mERROR:[0m [generic] 12873276_1080_1920_30fps: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 10:00:03,940 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:00:04,020 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:00:04,020 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:00:04,389 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:00:04,389 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:00:04,389 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:00:04,390 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:00:04,390 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:00:04,809 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:00:04,810 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:00:04,810 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:00:04,810 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:00:04,813 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:00:04,882 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:00:04,883 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:00:05,210 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:00:05,210 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:00:05,210 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:00:05,210 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:00:05,211 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:00:07,842 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:00:07,842 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:00:07,843 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:00:07,843 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:00:37,088 - __main__ - WARNING - Tentando fallback: [0;31mERROR:[0m [generic] 12873276_1080_1920_30fps: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 10:00:39,895 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:00:39,964 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:00:39,964 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:00:40,287 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:00:40,287 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:00:40,288 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:00:40,288 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:00:40,289 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:00:40,640 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:00:40,640 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:00:40,640 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:00:40,641 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:00:40,644 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:00:40,713 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:00:40,714 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:00:41,048 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:00:41,048 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:00:41,048 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:00:41,048 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:00:41,050 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:00:43,728 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:00:43,729 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:00:43,729 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:00:43,729 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:00:49,896 - __main__ - WARNING - Tentando fallback: [0;31mERROR:[0m [generic] 12873276_1080_1920_30fps: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 10:00:52,569 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:00:52,640 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:00:52,641 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:00:52,975 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:00:52,975 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:00:52,975 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:00:52,975 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:00:52,976 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:00:53,333 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:00:53,334 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:00:53,334 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:00:53,334 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:00:53,337 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:00:53,406 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:00:53,406 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:00:53,729 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:00:53,730 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:00:53,730 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:00:53,730 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:00:53,731 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:00:56,356 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:00:56,357 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:00:56,358 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:00:56,358 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:01:50,940 - __main__ - WARNING - Tentando fallback: [0;31mERROR:[0m [generic] 12873276_1080_1920_30fps: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 10:01:53,798 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:01:53,867 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:01:53,867 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:01:54,193 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:01:54,193 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:01:54,193 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:01:54,193 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:01:54,194 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:01:54,547 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:01:54,547 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:01:54,547 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:01:54,548 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:01:54,551 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:01:54,637 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:01:54,637 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:01:55,048 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:01:55,048 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:01:55,048 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:01:55,048 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:01:55,050 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:01:58,025 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:01:58,025 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:01:58,025 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:01:58,026 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:02:35,569 - __main__ - WARNING - Tentando fallback: [0;31mERROR:[0m [generic] 25: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 10:02:46,249 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:02:46,319 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:02:46,320 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:02:46,645 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:02:46,646 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:02:46,646 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:02:46,647 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:02:46,647 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:02:46,790 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:02:46,790 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:02:46,790 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:02:46,790 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:02:46,794 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:02:46,880 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:02:46,880 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:02:47,277 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:02:47,277 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:02:47,278 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:02:47,278 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:02:47,279 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:03:14,313 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:03:14,314 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:03:14,314 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:03:14,314 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:03:34,033 - __main__ - WARNING - Tentando fallback: [0;31mERROR:[0m [generic] 12873276_1080_1920_30fps: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 10:03:36,943 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:03:37,014 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:03:37,015 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:03:37,345 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:03:37,346 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:03:37,346 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:03:37,346 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:03:37,347 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:03:37,709 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:03:37,710 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:03:37,711 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:03:37,712 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:03:37,721 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:03:37,791 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:03:37,791 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:03:38,117 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:03:38,117 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:03:38,117 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:03:38,117 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:03:38,119 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:03:40,755 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:03:40,756 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:03:40,756 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:03:40,756 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:03:44,047 - root - INFO - Stop signal received (SIGTERM). Exiting...
+2025-03-28 10:03:44,798 - pyrogram.dispatcher - INFO - Stopped 12 HandlerTasks
+2025-03-28 10:03:44,799 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:03:44,800 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:03:44,801 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:03:44,801 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:03:50,215 - __main__ - INFO - ----- Bot Iniciado -----
+2025-03-28 10:03:50,585 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:03:50,667 - pyrogram.connection.connection - INFO - Connected! Production DC1 - IPv4
+2025-03-28 10:03:50,668 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:03:51,049 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:03:51,049 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:03:51,049 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:03:51,049 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:03:51,051 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:03:51,240 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2025-03-28 10:04:05,394 - __main__ - WARNING - Tentando fallback: [0;31mERROR:[0m [generic] 12873276_1080_1920_30fps: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 10:04:08,387 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:04:08,457 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:04:08,458 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:04:08,792 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:04:08,793 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:04:08,793 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:04:08,794 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:04:08,795 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:04:09,149 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:04:09,152 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:04:09,152 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:04:09,152 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:04:09,158 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:04:09,238 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:04:09,239 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:04:09,613 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:04:09,613 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:04:09,613 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:04:09,613 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:04:09,615 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:04:12,629 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:04:12,629 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:04:12,630 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:04:12,630 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:04:48,030 - __main__ - WARNING - Tentando fallback: [0;31mERROR:[0m [generic] 12873276_1080_1920_30fps: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 10:04:51,697 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:04:51,778 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:04:51,783 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:04:52,153 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:04:52,153 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:04:52,153 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:04:52,153 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:04:52,154 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:04:52,566 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:04:52,567 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:04:52,567 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:04:52,567 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:04:52,574 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:04:52,644 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:04:52,645 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:04:52,971 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:04:52,972 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:04:52,972 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:04:52,972 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:04:52,974 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:04:55,660 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:04:55,660 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:04:55,660 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:04:55,660 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:06:29,249 - __main__ - WARNING - Tentando fallback: [0;31mERROR:[0m [generic] 12873276_1080_1920_30fps: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 10:06:37,592 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:06:37,664 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:06:37,665 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:06:38,023 - __main__ - WARNING - Tentando fallback: [0;31mERROR:[0m [generic] 12873276_1080_1920_30fps: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 10:06:38,253 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:06:38,256 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:06:38,256 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:06:38,257 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:06:38,259 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:06:41,555 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:06:41,555 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:06:41,555 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:06:41,555 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:06:41,560 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:06:41,629 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:06:41,630 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:06:41,954 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:06:41,954 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:06:41,954 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:06:41,955 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:06:41,963 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:06:44,867 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:06:44,867 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:06:44,867 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:06:44,867 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:06:44,872 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:06:44,943 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:06:44,943 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:06:45,271 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:06:45,273 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:06:45,274 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:06:45,274 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:06:45,274 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:06:45,634 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:06:45,635 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:06:45,635 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:06:45,635 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:06:45,641 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:06:45,711 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:06:45,711 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:06:46,047 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:06:46,048 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:06:46,048 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:06:46,048 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:06:46,049 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:06:48,778 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:06:48,779 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:06:48,779 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:06:48,780 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:10:05,784 - root - INFO - Stop signal received (SIGTERM). Exiting...
+2025-03-28 10:10:07,879 - pyrogram.dispatcher - INFO - Stopped 12 HandlerTasks
+2025-03-28 10:10:07,880 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:10:07,880 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:10:07,880 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:10:07,880 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:10:22,457 - __main__ - INFO - ----- Bot Iniciado -----
+2025-03-28 10:10:22,846 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:10:22,927 - pyrogram.connection.connection - INFO - Connected! Production DC1 - IPv4
+2025-03-28 10:10:22,928 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:10:23,298 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:10:23,298 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:10:23,298 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:10:23,298 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:10:23,300 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:10:23,504 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2025-03-28 10:10:28,757 - __main__ - WARNING - Tentando fallback: [0;31mERROR:[0m [generic] 12873276_1080_1920_30fps: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 10:10:35,459 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:10:35,529 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:10:35,530 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:10:35,860 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:10:35,860 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:10:35,860 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:10:35,860 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:10:35,861 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:10:36,223 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:10:36,224 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:10:36,244 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:10:36,246 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:10:36,259 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:10:36,341 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:10:36,342 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:10:36,710 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:10:36,710 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:10:36,710 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:10:36,711 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:10:36,712 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:10:39,722 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:10:39,723 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:10:39,724 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:10:39,724 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:10:42,766 - __main__ - INFO - URL removida com sucesso (ID: 686)
+2025-03-28 10:10:54,375 - __main__ - WARNING - Tentando fallback: [0;31mERROR:[0m [generic] 12873276_1080_1920_30fps: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 10:10:59,107 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:10:59,177 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:10:59,182 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:10:59,513 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:10:59,513 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:10:59,514 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:10:59,514 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:10:59,515 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:10:59,876 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:10:59,878 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:10:59,882 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:10:59,883 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:10:59,888 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:10:59,975 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:10:59,976 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:11:00,378 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:11:00,379 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:11:00,379 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:11:00,380 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:11:00,390 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:11:03,758 - __main__ - WARNING - Tentando fallback: [0;31mERROR:[0m [generic] 12873276_1080_1920_30fps: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 10:11:10,259 - __main__ - WARNING - Tentando fallback: [0;31mERROR:[0m [generic] 12873276_1080_1920_30fps: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 10:11:16,180 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:11:16,183 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:11:16,184 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:11:16,185 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:11:16,193 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:11:16,274 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:11:16,275 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:11:16,645 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:11:16,645 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:11:16,645 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:11:16,646 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:11:16,646 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:11:17,069 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:11:17,070 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:11:17,071 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:11:17,072 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:11:17,080 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:11:17,150 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:11:17,151 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:11:17,481 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:11:17,481 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:11:17,482 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:11:17,482 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:11:17,482 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:11:17,833 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:11:17,833 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:11:17,834 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:11:17,834 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:11:17,839 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:11:17,909 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:11:17,909 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:11:18,244 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:11:18,245 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:11:18,245 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:11:18,246 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:11:18,248 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:11:21,005 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:11:21,007 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:11:21,008 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:11:21,009 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:11:21,015 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:11:21,086 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:11:21,095 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:11:21,417 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:11:21,417 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:11:21,417 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:11:21,418 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:11:21,420 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:11:24,096 - __main__ - INFO - URL removida com sucesso (ID: 126)
+2025-03-28 10:11:24,161 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:11:24,162 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:11:24,162 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:11:24,163 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:11:27,326 - __main__ - INFO - URL removida com sucesso (ID: 689)
+2025-03-28 10:12:07,922 - __main__ - WARNING - Tentando fallback: [0;31mERROR:[0m [generic] 12873276_1080_1920_30fps: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 10:12:12,828 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:12:12,899 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:12:12,899 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:12:13,234 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:12:13,234 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:12:13,234 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:12:13,234 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:12:13,235 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:12:13,593 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:12:13,594 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:12:13,594 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:12:13,594 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:12:13,597 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:12:13,668 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:12:13,668 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:12:14,000 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:12:14,000 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:12:14,000 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:12:14,001 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:12:14,002 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:12:16,655 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:12:16,655 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:12:16,655 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:12:16,655 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:12:19,799 - __main__ - INFO - URL removida com sucesso (ID: 694)
+2025-03-28 10:18:37,536 - __main__ - WARNING - Tentando fallback: [0;31mERROR:[0m [generic] 12873276_1080_1920_30fps: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 10:18:42,308 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:18:42,384 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:18:42,386 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:18:42,708 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:18:42,708 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:18:42,708 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:18:42,709 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:18:42,709 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:18:43,065 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:18:43,065 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:18:43,065 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:18:43,066 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:18:43,070 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:18:43,157 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:18:43,157 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:18:43,555 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:18:43,555 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:18:43,555 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:18:43,556 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:18:43,557 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:18:46,551 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:18:46,552 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:18:46,552 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:18:46,552 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:18:49,597 - __main__ - INFO - URL removida com sucesso (ID: 698)
+2025-03-28 10:21:32,098 - root - INFO - Stop signal received (SIGTERM). Exiting...
+2025-03-28 10:21:32,534 - pyrogram.dispatcher - INFO - Stopped 12 HandlerTasks
+2025-03-28 10:21:32,534 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:21:32,535 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:21:32,535 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:21:32,535 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:21:39,005 - __main__ - INFO - ----- Bot Iniciado -----
+2025-03-28 10:21:39,598 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:21:39,668 - pyrogram.connection.connection - INFO - Connected! Production DC1 - IPv4
+2025-03-28 10:21:39,669 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:21:39,997 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:21:39,998 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:21:39,998 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:21:39,998 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:21:40,001 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:21:40,158 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2025-03-28 10:22:51,625 - __main__ - ERROR - Erro ao adicionar legenda: Telegram says: [403 MESSAGE_AUTHOR_REQUIRED] - You are not the author of this message (caused by "messages.EditMessage")
+2025-03-28 10:46:52,163 - root - INFO - Stop signal received (SIGTERM). Exiting...
+2025-03-28 10:47:04,494 - __main__ - INFO - ----- Bot Iniciado -----
+2025-03-28 10:47:04,790 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:47:04,858 - pyrogram.connection.connection - INFO - Connected! Production DC1 - IPv4
+2025-03-28 10:47:04,859 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:47:05,186 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:47:05,187 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:47:05,187 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:47:05,187 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:47:05,189 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:47:05,341 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2025-03-28 10:47:18,449 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:47:18,547 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:47:18,548 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:47:18,974 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:47:18,974 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:47:18,974 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:47:18,975 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:47:18,977 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:47:32,014 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:47:32,015 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:47:32,015 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:47:32,015 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:47:32,183 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:47:32,253 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:47:32,253 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:47:32,584 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:47:32,584 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:47:32,584 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:47:32,584 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:47:32,585 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:47:48,848 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:47:48,848 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:47:48,848 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:47:48,848 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:48:47,887 - pyrogram.session.auth - INFO - Start creating a new auth key on DC4
+2025-03-28 10:48:47,888 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:48:48,031 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2025-03-28 10:48:50,034 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2025-03-28 10:48:50,035 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:48:50,037 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:48:50,179 - pyrogram.connection.connection - INFO - Connected! Production DC4 (media) - IPv4
+2025-03-28 10:48:50,179 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:48:50,803 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:48:50,804 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:48:50,804 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:48:50,804 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:48:50,807 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:49:41,840 - root - INFO - Stop signal received (SIGTERM). Exiting...
+2025-03-28 10:49:56,271 - __main__ - INFO - ----- Bot Iniciado -----
+2025-03-28 10:49:56,652 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:49:56,724 - pyrogram.connection.connection - INFO - Connected! Production DC1 - IPv4
+2025-03-28 10:49:56,725 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:49:57,061 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:49:57,062 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:49:57,062 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:49:57,062 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:49:57,064 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:49:57,227 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2025-03-28 10:50:40,568 - pyrogram.session.auth - INFO - Start creating a new auth key on DC4
+2025-03-28 10:50:40,569 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:50:40,715 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2025-03-28 10:50:42,372 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2025-03-28 10:50:42,373 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:50:42,375 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:50:42,519 - pyrogram.connection.connection - INFO - Connected! Production DC4 (media) - IPv4
+2025-03-28 10:50:42,521 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:50:43,175 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:50:43,175 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:50:43,175 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:50:43,175 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:50:43,177 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:52:56,010 - __main__ - INFO - ----- Bot Iniciado -----
+2025-03-28 10:52:56,748 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:52:56,828 - pyrogram.connection.connection - INFO - Connected! Production DC1 - IPv4
+2025-03-28 10:52:56,829 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:52:57,201 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:52:57,202 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:52:57,202 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:52:57,202 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:52:57,204 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:52:57,387 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2025-03-28 10:54:23,891 - __main__ - INFO - ----- Bot Iniciado -----
+2025-03-28 10:54:25,055 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:54:25,138 - pyrogram.connection.connection - INFO - Connected! Production DC1 - IPv4
+2025-03-28 10:54:25,146 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:54:25,476 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:54:25,477 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:54:25,477 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:54:25,477 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:54:25,479 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:54:25,673 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2025-03-28 10:55:50,202 - root - INFO - Stop signal received (SIGTERM). Exiting...
+2025-03-28 10:55:50,626 - pyrogram.dispatcher - INFO - Stopped 12 HandlerTasks
+2025-03-28 10:55:50,627 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:55:50,628 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:55:50,628 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:55:50,628 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:55:56,488 - __main__ - INFO - ----- Bot Iniciado -----
+2025-03-28 10:55:56,989 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:55:57,061 - pyrogram.connection.connection - INFO - Connected! Production DC1 - IPv4
+2025-03-28 10:55:57,064 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:55:57,392 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:55:57,394 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:55:57,394 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:55:57,394 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:55:57,396 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:55:57,582 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2025-03-28 10:56:08,722 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:56:08,792 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:56:08,792 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:56:09,132 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:56:09,132 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:56:09,132 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:56:09,132 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:56:09,134 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:56:20,008 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:56:20,009 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:56:20,009 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:56:20,009 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:56:20,194 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:56:20,277 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:56:20,281 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:56:20,655 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:56:20,656 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:56:20,656 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:56:20,656 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:56:20,657 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:56:32,550 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:56:32,550 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:56:32,551 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:56:32,551 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:57:23,215 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:57:23,298 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:57:23,299 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:57:23,686 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:57:23,687 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:57:23,687 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:57:23,687 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:57:23,690 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:57:36,182 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:57:36,186 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:57:36,191 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:57:36,194 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:57:42,664 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:57:42,737 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:57:42,739 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:57:43,065 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:57:43,067 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:57:43,068 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:57:43,070 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:57:43,073 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:57:43,219 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:57:43,221 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:57:43,221 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:57:43,222 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 10:57:43,229 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 10:57:43,299 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 10:57:43,300 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 10:57:43,632 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 10:57:43,632 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 10:57:43,633 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 10:57:43,633 - pyrogram.session.session - INFO - Session started
+2025-03-28 10:57:43,633 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 10:57:56,187 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 10:57:56,188 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 10:57:56,188 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 10:57:56,188 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 11:00:39,174 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 11:00:39,246 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 11:00:39,247 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 11:00:39,581 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 11:00:39,581 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 11:00:39,583 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 11:00:39,583 - pyrogram.session.session - INFO - Session started
+2025-03-28 11:00:39,585 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 11:03:50,083 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 11:03:50,095 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 11:03:50,096 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 11:03:50,096 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 11:04:06,927 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 11:04:06,933 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 11:04:06,933 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 11:04:06,933 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 11:04:06,933 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 11:04:07,002 - pyrogram.connection.connection - INFO - Connected! Production DC1 - IPv4
+2025-03-28 11:04:07,005 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 11:04:07,190 - pyrogram.session.session - INFO - Discarding packet: The msg_id is lower than all the stored values
+2025-03-28 11:04:07,194 - pyrogram.session.session - INFO - Discarding packet: The msg_id is lower than all the stored values
+2025-03-28 11:04:07,200 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 11:04:07,202 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 11:04:07,207 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 11:04:09,192 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 11:04:09,192 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 11:04:09,192 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 11:04:09,272 - pyrogram.connection.connection - INFO - Connected! Production DC1 - IPv4
+2025-03-28 11:04:09,273 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 11:04:09,606 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 11:04:09,607 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 11:04:09,608 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 11:04:09,608 - pyrogram.session.session - INFO - Session started
+2025-03-28 11:04:09,609 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 11:04:09,738 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 11:04:09,814 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 11:04:09,815 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 11:04:10,166 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 11:04:10,167 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 11:04:10,167 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 11:04:10,168 - pyrogram.session.session - INFO - Session started
+2025-03-28 11:04:10,170 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 11:04:10,388 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 11:04:10,395 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 11:04:10,400 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 11:04:10,405 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 11:04:10,428 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 11:04:10,499 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 11:04:10,501 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 11:04:10,833 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 11:04:10,833 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 11:04:10,834 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 11:04:10,834 - pyrogram.session.session - INFO - Session started
+2025-03-28 11:04:10,847 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 11:11:18,719 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 11:11:18,722 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 11:11:18,723 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 11:11:18,723 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 11:13:05,902 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 11:13:05,925 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 11:13:05,925 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 11:13:05,926 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 11:13:05,926 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 11:13:06,028 - pyrogram.connection.connection - INFO - Connected! Production DC1 - IPv4
+2025-03-28 11:13:06,028 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 11:13:06,438 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 11:13:06,438 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 11:13:06,438 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 11:13:06,438 - pyrogram.session.session - INFO - Session started
+2025-03-28 11:13:06,438 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 11:13:21,777 - root - INFO - Stop signal received (SIGTERM). Exiting...
+2025-03-28 11:14:06,574 - __main__ - INFO - ----- Bot Iniciado -----
+2025-03-28 11:14:07,079 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 11:14:07,153 - pyrogram.connection.connection - INFO - Connected! Production DC1 - IPv4
+2025-03-28 11:14:07,156 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 11:14:07,487 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 11:14:07,488 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 11:14:07,489 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 11:14:07,490 - pyrogram.session.session - INFO - Session started
+2025-03-28 11:14:07,493 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 11:14:07,651 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2025-03-28 11:15:02,787 - __main__ - ERROR - Erro ao processar callback: 'NoneType' object has no attribute 'id'
+2025-03-28 11:15:08,735 - __main__ - ERROR - Erro ao processar callback: 'NoneType' object has no attribute 'id'
+2025-03-28 11:15:11,808 - __main__ - ERROR - Erro ao processar callback: 'NoneType' object has no attribute 'id'
+2025-03-28 11:15:13,937 - __main__ - ERROR - Erro ao processar callback: 'NoneType' object has no attribute 'id'
+2025-03-28 11:15:15,128 - __main__ - ERROR - Erro ao processar callback: 'NoneType' object has no attribute 'id'
+2025-03-28 11:15:22,342 - root - INFO - Stop signal received (SIGINT). Exiting...
+2025-03-28 11:15:22,638 - pyrogram.dispatcher - INFO - Stopped 12 HandlerTasks
+2025-03-28 11:15:22,639 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 11:15:22,639 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 11:15:22,640 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 11:15:22,640 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 11:16:09,483 - __main__ - INFO - ----- Bot Iniciado -----
+2025-03-28 11:16:09,816 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 11:16:09,885 - pyrogram.connection.connection - INFO - Connected! Production DC1 - IPv4
+2025-03-28 11:16:09,886 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 11:16:10,212 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 11:16:10,213 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 11:16:10,213 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 11:16:10,213 - pyrogram.session.session - INFO - Session started
+2025-03-28 11:16:10,215 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 11:16:10,380 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2025-03-28 11:16:12,489 - __main__ - ERROR - Erro ao processar callback: 'NoneType' object has no attribute 'id'
+2025-03-28 11:16:14,312 - __main__ - ERROR - Erro ao processar callback: 'NoneType' object has no attribute 'id'
+2025-03-28 11:16:15,287 - __main__ - ERROR - Erro ao processar callback: 'NoneType' object has no attribute 'id'
+2025-03-28 11:16:16,334 - __main__ - ERROR - Erro ao processar callback: 'NoneType' object has no attribute 'id'
+2025-03-28 11:17:16,409 - __main__ - ERROR - Erro ao processar callback: 'NoneType' object has no attribute 'id'
+2025-03-28 11:17:19,999 - __main__ - ERROR - Erro ao processar callback: 'NoneType' object has no attribute 'id'
+2025-03-28 11:17:22,283 - __main__ - ERROR - Erro ao processar callback: 'NoneType' object has no attribute 'id'
+2025-03-28 11:17:45,834 - __main__ - WARNING - Tentando fallback: [0;31mERROR:[0m [generic] 25: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 11:17:55,857 - __main__ - ERROR - Erro no processamento: Invalid file. Expected a file path as string or a binary (not text) file pointer
+2025-03-28 11:18:30,330 - __main__ - INFO - ----- Bot Iniciado -----
+2025-03-28 11:18:30,727 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 11:18:30,810 - pyrogram.connection.connection - INFO - Connected! Production DC1 - IPv4
+2025-03-28 11:18:30,812 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 11:18:31,184 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 11:18:31,185 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 11:18:31,185 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 11:18:31,185 - pyrogram.session.session - INFO - Session started
+2025-03-28 11:18:31,187 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 11:18:31,365 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2025-03-28 11:18:38,951 - __main__ - ERROR - Erro ao processar callback: 'NoneType' object has no attribute 'id'
+2025-03-28 11:18:42,747 - __main__ - ERROR - Erro ao processar callback: 'NoneType' object has no attribute 'id'
+2025-03-28 11:19:06,534 - __main__ - WARNING - Tentando fallback: [0;31mERROR:[0m [generic] 12873276_1080_1920_30fps: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 11:19:14,433 - __main__ - ERROR - Erro no processamento: Invalid file. Expected a file path as string or a binary (not text) file pointer
+2025-03-28 11:19:27,874 - __main__ - WARNING - Tentando fallback: [0;31mERROR:[0m [generic] 12873276_1080_1920_30fps: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 11:19:29,062 - __main__ - ERROR - Erro no processamento: Invalid file. Expected a file path as string or a binary (not text) file pointer
+2025-03-28 11:20:06,773 - __main__ - WARNING - Tentando fallback: [0;31mERROR:[0m [generic] 12873276_1080_1920_30fps: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 11:20:08,254 - __main__ - ERROR - Erro no processamento: Invalid file. Expected a file path as string or a binary (not text) file pointer
+2025-03-28 11:20:56,963 - __main__ - WARNING - Tentando fallback: [0;31mERROR:[0m [generic] 25: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 11:21:04,974 - __main__ - ERROR - Erro no processamento: Invalid file. Expected a file path as string or a binary (not text) file pointer
+2025-03-28 11:22:03,304 - __main__ - ERROR - Erro ao processar callback: 'NoneType' object has no attribute 'id'
+2025-03-28 11:22:04,756 - __main__ - ERROR - Erro ao processar callback: 'NoneType' object has no attribute 'id'
+2025-03-28 11:28:21,209 - root - INFO - Stop signal received (SIGTERM). Exiting...
+2025-03-28 11:32:39,333 - __main__ - INFO - ----- Bot Iniciado -----
+2025-03-28 11:32:39,827 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 11:32:39,898 - pyrogram.connection.connection - INFO - Connected! Production DC1 - IPv4
+2025-03-28 11:32:39,898 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 11:32:40,229 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 11:32:40,229 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 11:32:40,229 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 11:32:40,230 - pyrogram.session.session - INFO - Session started
+2025-03-28 11:32:40,232 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 11:32:40,387 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2025-03-28 11:33:40,323 - root - INFO - Stop signal received (SIGTERM). Exiting...
+2025-03-28 11:33:40,381 - pyrogram.dispatcher - INFO - Stopped 12 HandlerTasks
+2025-03-28 11:33:40,382 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 11:33:40,382 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 11:33:40,382 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 11:33:40,382 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 11:33:45,977 - __main__ - INFO - ----- Bot Iniciado -----
+2025-03-28 11:33:46,518 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 11:33:46,588 - pyrogram.connection.connection - INFO - Connected! Production DC1 - IPv4
+2025-03-28 11:33:46,589 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 11:33:46,992 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 11:33:46,992 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 11:33:46,992 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 11:33:46,993 - pyrogram.session.session - INFO - Session started
+2025-03-28 11:33:46,995 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 11:33:47,155 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2025-03-28 11:34:02,469 - __main__ - INFO - URL removida com sucesso (ID: 729)
+2025-03-28 11:34:24,509 - __main__ - ERROR - Erro no download: [0;31mERROR:[0m [generic] 25: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 11:35:27,800 - root - INFO - Stop signal received (SIGTERM). Exiting...
+2025-03-28 11:35:34,946 - __main__ - INFO - ----- Bot Iniciado -----
+2025-03-28 11:35:35,197 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 11:35:35,272 - pyrogram.connection.connection - INFO - Connected! Production DC1 - IPv4
+2025-03-28 11:35:35,273 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 11:35:35,625 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 11:35:35,625 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 11:35:35,625 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 11:35:35,625 - pyrogram.session.session - INFO - Session started
+2025-03-28 11:35:35,628 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 11:35:35,795 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2025-03-28 20:57:40,081 - __main__ - INFO - ----- Bot Iniciado -----
+2025-03-28 20:57:40,421 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 20:57:40,493 - pyrogram.connection.connection - INFO - Connected! Production DC1 - IPv4
+2025-03-28 20:57:40,498 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 20:57:40,826 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 20:57:40,826 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 20:57:40,826 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 20:57:40,826 - pyrogram.session.session - INFO - Session started
+2025-03-28 20:57:40,828 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 20:57:40,997 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2025-03-28 21:01:48,463 - root - INFO - Stop signal received (SIGTERM). Exiting...
+2025-03-28 21:02:12,919 - __main__ - INFO - ----- Bot Iniciado -----
+2025-03-28 21:02:13,436 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 21:02:13,510 - pyrogram.connection.connection - INFO - Connected! Production DC1 - IPv4
+2025-03-28 21:02:13,518 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 21:02:13,843 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 21:02:13,844 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 21:02:13,844 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 21:02:13,844 - pyrogram.session.session - INFO - Session started
+2025-03-28 21:02:13,848 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 21:02:14,014 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2025-03-28 21:04:54,847 - __main__ - WARNING - Tentando fallback: [0;31mERROR:[0m [generic] 12873276_1080_1920_30fps: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 21:05:12,997 - root - INFO - Stop signal received (SIGTERM). Exiting...
+2025-03-28 21:05:49,999 - __main__ - INFO - ----- Bot Iniciado -----
+2025-03-28 21:05:50,507 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 21:05:50,598 - pyrogram.connection.connection - INFO - Connected! Production DC1 - IPv4
+2025-03-28 21:05:50,601 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 21:05:50,970 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 21:05:50,970 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 21:05:50,970 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 21:05:50,970 - pyrogram.session.session - INFO - Session started
+2025-03-28 21:05:50,972 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 21:05:51,159 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2025-03-28 21:05:56,867 - __main__ - WARNING - Tentando fallback: [0;31mERROR:[0m [generic] 25: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 21:06:10,461 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 21:06:10,532 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 21:06:10,533 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 21:06:10,867 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 21:06:10,870 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 21:06:10,872 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 21:06:10,873 - pyrogram.session.session - INFO - Session started
+2025-03-28 21:06:10,875 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 21:06:11,019 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 21:06:11,020 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 21:06:11,021 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 21:06:11,021 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 21:06:11,030 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 21:06:11,119 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 21:06:11,121 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 21:06:11,513 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 21:06:11,514 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 21:06:11,514 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 21:06:11,514 - pyrogram.session.session - INFO - Session started
+2025-03-28 21:06:11,515 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 21:07:00,477 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 21:07:00,477 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 21:07:00,477 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 21:07:00,477 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 21:07:02,865 - __main__ - INFO - URL removida com sucesso (ID: 745)
+2025-03-28 21:11:09,490 - root - INFO - Stop signal received (SIGINT). Exiting...
+2025-03-28 21:11:11,038 - root - INFO - Stop signal received (SIGTERM). Exiting...
+2025-03-28 21:11:12,789 - __main__ - WARNING - Tentando fallback: [0;31mERROR:[0m Postprocessing: Exiting normally, received signal 2.
+2025-03-28 21:11:19,584 - __main__ - INFO - ----- Bot Iniciado -----
+2025-03-28 21:11:19,833 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 21:11:19,903 - pyrogram.connection.connection - INFO - Connected! Production DC1 - IPv4
+2025-03-28 21:11:19,906 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 21:11:20,240 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 21:11:20,240 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 21:11:20,240 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 21:11:20,240 - pyrogram.session.session - INFO - Session started
+2025-03-28 21:11:20,242 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 21:11:20,400 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2025-03-28 21:12:38,147 - __main__ - WARNING - Tentando fallback: [0;31mERROR:[0m [generic] 12873276_1080_1920_30fps: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 21:12:50,891 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 21:12:50,898 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 21:12:50,900 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 21:12:50,900 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 21:12:50,904 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 21:12:50,978 - pyrogram.connection.connection - INFO - Connected! Production DC1 - IPv4
+2025-03-28 21:12:50,985 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 21:12:51,206 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 21:12:51,338 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 21:12:51,341 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 21:12:51,354 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 21:12:51,357 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 21:12:51,359 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 21:12:51,363 - pyrogram.session.session - INFO - Session started
+2025-03-28 21:12:51,365 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 21:12:51,690 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 21:12:51,709 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 21:12:51,727 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 21:12:51,739 - pyrogram.session.session - INFO - Session started
+2025-03-28 21:12:51,766 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 21:12:52,152 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 21:12:52,155 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 21:12:52,191 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 21:12:52,208 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 21:12:52,220 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 21:12:52,300 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 21:12:52,301 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 21:12:52,681 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 21:12:52,683 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 21:12:52,687 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 21:12:52,694 - pyrogram.session.session - INFO - Session started
+2025-03-28 21:12:52,703 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 21:12:55,966 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 21:12:55,967 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 21:12:55,968 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 21:12:55,968 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 21:12:59,079 - __main__ - INFO - URL removida com sucesso (ID: 22)
+2025-03-28 21:16:08,504 - __main__ - WARNING - Tentando fallback: [0;31mERROR:[0m [generic] 25: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 21:16:25,242 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 21:16:25,314 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 21:16:25,314 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 21:16:25,758 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 21:16:25,760 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 21:16:25,760 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 21:16:25,761 - pyrogram.session.session - INFO - Session started
+2025-03-28 21:16:25,761 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 21:16:25,936 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 21:16:25,946 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 21:16:25,950 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 21:16:25,951 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 21:16:25,954 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 21:16:26,048 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 21:16:26,049 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 21:16:26,445 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 21:16:26,446 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 21:16:26,446 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 21:16:26,446 - pyrogram.session.session - INFO - Session started
+2025-03-28 21:16:26,446 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 21:16:38,335 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 21:16:38,336 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 21:16:38,337 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 21:16:38,338 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 21:16:40,994 - __main__ - INFO - URL removida com sucesso (ID: 128)
+2025-03-28 22:49:47,070 - __main__ - INFO - ----- Bot Iniciado -----
+2025-03-28 22:49:47,966 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 22:49:48,035 - pyrogram.connection.connection - INFO - Connected! Production DC1 - IPv4
+2025-03-28 22:49:48,036 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 22:49:48,371 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 22:49:48,371 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 22:49:48,371 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 22:49:48,371 - pyrogram.session.session - INFO - Session started
+2025-03-28 22:49:48,383 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 22:49:48,545 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2025-03-28 22:52:34,262 - __main__ - WARNING - Primeira tentativa falhou: [0;31mERROR:[0m [generic] 25: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 22:52:35,201 - __main__ - WARNING - Fallback 1 falhou: [0;31mERROR:[0m [generic] 25: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 22:52:43,589 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 22:52:43,670 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 22:52:43,671 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 22:52:44,045 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 22:52:44,047 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 22:52:44,053 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 22:52:44,053 - pyrogram.session.session - INFO - Session started
+2025-03-28 22:52:44,054 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 22:52:44,223 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 22:52:44,228 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 22:52:44,231 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 22:52:44,232 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 22:52:44,242 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 22:52:44,312 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 22:52:44,312 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 22:52:44,639 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 22:52:44,639 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 22:52:44,639 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 22:52:44,639 - pyrogram.session.session - INFO - Session started
+2025-03-28 22:52:44,640 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 22:52:56,407 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 22:52:56,408 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 22:52:56,408 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 22:52:56,408 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 22:52:58,748 - __main__ - WARNING - Primeira tentativa falhou: [0;31mERROR:[0m [generic] 25: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 22:52:59,697 - __main__ - WARNING - Fallback 1 falhou: [0;31mERROR:[0m [generic] 25: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 22:53:24,616 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 22:53:24,690 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 22:53:24,694 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 22:53:25,022 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 22:53:25,024 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 22:53:25,026 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 22:53:25,029 - pyrogram.session.session - INFO - Session started
+2025-03-28 22:53:25,029 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 22:53:25,237 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 22:53:25,238 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 22:53:25,238 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 22:53:25,238 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 22:53:25,244 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 22:53:25,318 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 22:53:25,321 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 22:53:25,661 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 22:53:25,661 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 22:53:25,661 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 22:53:25,661 - pyrogram.session.session - INFO - Session started
+2025-03-28 22:53:25,662 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 22:53:50,064 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 22:53:50,065 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 22:53:50,066 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 22:53:50,066 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 22:53:52,380 - __main__ - WARNING - Primeira tentativa falhou: [0;31mERROR:[0m [generic] 25: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 22:53:53,241 - __main__ - WARNING - Fallback 1 falhou: [0;31mERROR:[0m [generic] 25: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 22:54:09,791 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 22:54:09,864 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 22:54:09,867 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 22:54:10,195 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 22:54:10,195 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 22:54:10,195 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 22:54:10,195 - pyrogram.session.session - INFO - Session started
+2025-03-28 22:54:10,196 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 22:54:10,337 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 22:54:10,339 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 22:54:10,340 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 22:54:10,340 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 22:54:10,347 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 22:54:10,429 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 22:54:10,433 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 22:54:10,761 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 22:54:10,762 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 22:54:10,762 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 22:54:10,762 - pyrogram.session.session - INFO - Session started
+2025-03-28 22:54:10,763 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 22:54:48,643 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 22:54:48,643 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 22:54:48,644 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 22:54:48,644 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 22:54:50,950 - __main__ - WARNING - Primeira tentativa falhou: [0;31mERROR:[0m [generic] 25: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 22:54:51,881 - __main__ - WARNING - Fallback 1 falhou: [0;31mERROR:[0m [generic] 25: Requested format is not available. Use --list-formats for a list of available formats
+2025-03-28 22:55:03,299 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 22:55:03,368 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 22:55:03,369 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 22:55:03,697 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 22:55:03,697 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 22:55:03,697 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 22:55:03,698 - pyrogram.session.session - INFO - Session started
+2025-03-28 22:55:03,698 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 22:55:03,843 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 22:55:03,844 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 22:55:03,844 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 22:55:03,844 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 22:55:03,851 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 22:55:03,922 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 22:55:03,922 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 22:55:04,258 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 22:55:04,259 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 22:55:04,260 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 22:55:04,260 - pyrogram.session.session - INFO - Session started
+2025-03-28 22:55:04,261 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 22:55:34,542 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 22:55:34,543 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 22:55:34,543 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 22:55:34,543 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 22:58:10,148 - root - INFO - Stop signal received (SIGTERM). Exiting...
+2025-03-28 23:01:36,603 - __main__ - INFO - ----- Bot Iniciado -----
+2025-03-28 23:01:37,201 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 23:01:37,273 - pyrogram.connection.connection - INFO - Connected! Production DC1 - IPv4
+2025-03-28 23:01:37,276 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 23:01:37,690 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 23:01:37,691 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 23:01:37,691 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 23:01:37,691 - pyrogram.session.session - INFO - Session started
+2025-03-28 23:01:37,693 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 23:01:37,990 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2025-03-28 23:01:49,035 - __main__ - ERROR - Erro ao extrair metadados: Command '['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'default=noprint_wrappers=1:nokey=1', './downloads/dl_473.mp4']' returned non-zero exit status 1.
+2025-03-28 23:02:34,739 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 23:02:34,810 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 23:02:34,812 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 23:02:35,138 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 23:02:35,138 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 23:02:35,139 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 23:02:35,139 - pyrogram.session.session - INFO - Session started
+2025-03-28 23:02:35,140 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 23:02:35,423 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 23:02:35,424 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 23:02:35,424 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 23:02:35,425 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 23:02:35,434 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 23:02:35,509 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 23:02:35,511 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 23:02:35,863 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 23:02:35,863 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 23:02:35,864 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 23:02:35,864 - pyrogram.session.session - INFO - Session started
+2025-03-28 23:02:35,865 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 23:03:06,721 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 23:03:06,722 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 23:03:06,723 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 23:03:06,724 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 23:05:12,478 - __main__ - ERROR - Erro ao extrair metadados: Command '['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'default=noprint_wrappers=1:nokey=1', './downloads/dl_25.mp4']' returned non-zero exit status 1.
+2025-03-28 23:05:12,494 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 23:05:12,585 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 23:05:12,585 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 23:05:12,978 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 23:05:12,980 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 23:05:12,982 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 23:05:12,984 - pyrogram.session.session - INFO - Session started
+2025-03-28 23:05:12,987 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 23:05:13,338 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 23:05:13,338 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 23:05:13,338 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 23:05:13,338 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 23:05:15,661 - __main__ - INFO - URL removida com sucesso (ID: 25)
+2025-03-28 23:06:17,323 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 23:06:17,400 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 23:06:17,402 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 23:06:17,734 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 23:06:17,735 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 23:06:17,735 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 23:06:17,735 - pyrogram.session.session - INFO - Session started
+2025-03-28 23:06:17,736 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 23:06:18,016 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 23:06:18,017 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 23:06:18,017 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 23:06:18,017 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 23:06:18,025 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 23:06:18,096 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 23:06:18,097 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 23:06:18,433 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 23:06:18,434 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 23:06:18,435 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 23:06:18,435 - pyrogram.session.session - INFO - Session started
+2025-03-28 23:06:18,437 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 23:06:37,324 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 23:06:37,344 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 23:06:37,354 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 23:06:37,361 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 23:06:39,694 - __main__ - INFO - URL removida com sucesso (ID: 28)
+2025-03-28 23:07:28,804 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 23:07:28,876 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 23:07:28,877 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 23:07:29,219 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 23:07:29,221 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 23:07:29,221 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 23:07:29,229 - pyrogram.session.session - INFO - Session started
+2025-03-28 23:07:29,235 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 23:07:29,463 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 23:07:29,463 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 23:07:29,463 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 23:07:29,463 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 23:07:29,471 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 23:07:29,541 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 23:07:29,542 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 23:07:29,901 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 23:07:30,324 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 23:07:30,327 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 23:07:30,328 - pyrogram.session.session - INFO - Session started
+2025-03-28 23:07:30,335 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 23:08:46,668 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 23:08:46,669 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 23:08:46,669 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 23:08:46,669 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 23:08:46,678 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 23:08:46,746 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 23:08:46,747 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 23:08:47,076 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 23:08:47,077 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 23:08:47,078 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 23:08:47,078 - pyrogram.session.session - INFO - Session started
+2025-03-28 23:08:47,079 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 23:08:47,292 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 23:08:47,294 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 23:08:47,307 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 23:08:47,307 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 23:08:47,318 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 23:08:47,390 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 23:08:47,392 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 23:08:47,722 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 23:08:47,725 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 23:08:47,726 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 23:08:47,726 - pyrogram.session.session - INFO - Session started
+2025-03-28 23:08:47,731 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 23:08:49,062 - __main__ - INFO - URL removida com sucesso (ID: 31)
+2025-03-28 23:08:57,999 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 23:08:58,000 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 23:08:58,000 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 23:08:58,000 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 23:08:58,001 - pyrogram.connection.transport.tcp.tcp - INFO - Send exception: ConnectionResetError Connection lost
+2025-03-28 23:09:00,417 - __main__ - INFO - URL removida com sucesso (ID: 33)
+2025-03-28 23:10:15,659 - __main__ - ERROR - Erro ao extrair metadados: Command '['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'default=noprint_wrappers=1:nokey=1', './downloads/dl_478.mp4']' returned non-zero exit status 1.
+2025-03-28 23:18:43,184 - root - INFO - Stop signal received (SIGTERM). Exiting...
+2025-03-28 23:18:59,251 - __main__ - INFO - ----- Bot Iniciado -----
+2025-03-28 23:18:59,951 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 23:19:00,040 - pyrogram.connection.connection - INFO - Connected! Production DC1 - IPv4
+2025-03-28 23:19:00,044 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 23:19:00,427 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 23:19:00,429 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 23:19:00,431 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 23:19:00,433 - pyrogram.session.session - INFO - Session started
+2025-03-28 23:19:00,438 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 23:19:00,638 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2025-03-28 23:19:39,791 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 23:19:39,864 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 23:19:39,867 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 23:19:40,283 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 23:19:40,287 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 23:19:40,291 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 23:19:40,296 - pyrogram.session.session - INFO - Session started
+2025-03-28 23:19:40,299 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 23:19:40,525 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 23:19:40,527 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 23:19:40,529 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 23:19:40,529 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 23:19:40,537 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 23:19:41,679 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 23:19:41,681 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 23:19:42,070 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 23:19:42,071 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 23:19:42,071 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 23:19:42,071 - pyrogram.session.session - INFO - Session started
+2025-03-28 23:19:42,073 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 23:22:58,052 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 23:22:58,053 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 23:22:58,054 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 23:22:58,054 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 23:24:06,906 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 23:24:06,994 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 23:24:06,995 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 23:24:07,390 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 23:24:07,393 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 23:24:07,394 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 23:24:07,395 - pyrogram.session.session - INFO - Session started
+2025-03-28 23:24:07,396 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 23:24:07,748 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 23:24:07,750 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 23:24:07,751 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 23:24:07,752 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 23:24:07,759 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 23:24:07,840 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 23:24:07,841 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 23:24:08,217 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 23:24:08,217 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 23:24:08,217 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 23:24:08,217 - pyrogram.session.session - INFO - Session started
+2025-03-28 23:24:08,218 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 23:24:56,305 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 23:24:56,306 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 23:24:56,307 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 23:24:56,307 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 23:30:49,687 - __main__ - ERROR - Erro ao extrair metadados: Command '['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'default=noprint_wrappers=1:nokey=1', './downloads/dl_486.mp4']' returned non-zero exit status 1.
+2025-03-28 23:33:18,581 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 23:33:18,666 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 23:33:18,666 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 23:33:19,052 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 23:33:19,052 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 23:33:19,052 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 23:33:19,053 - pyrogram.session.session - INFO - Session started
+2025-03-28 23:33:19,053 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 23:33:19,306 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 23:33:19,307 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 23:33:19,307 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 23:33:19,307 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 23:33:19,314 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 23:33:19,394 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 23:33:19,396 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 23:33:19,781 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 23:33:19,783 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 23:33:19,788 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 23:33:19,790 - pyrogram.session.session - INFO - Session started
+2025-03-28 23:33:19,792 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 23:35:49,944 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 23:35:49,952 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 23:35:49,952 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 23:35:49,953 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 23:35:49,959 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 23:35:50,045 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 23:35:50,047 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 23:35:50,400 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 23:35:50,402 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 23:35:50,404 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 23:35:50,406 - pyrogram.session.session - INFO - Session started
+2025-03-28 23:35:50,407 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 23:35:50,642 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 23:35:50,643 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 23:35:50,644 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 23:35:50,644 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 23:35:50,660 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 23:35:50,742 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 23:35:50,742 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 23:35:51,201 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 23:35:51,201 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 23:35:51,202 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 23:35:51,202 - pyrogram.session.session - INFO - Session started
+2025-03-28 23:35:51,203 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 23:35:52,326 - __main__ - INFO - URL removida com sucesso (ID: 38)
+2025-03-28 23:37:36,279 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 23:37:36,281 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 23:37:36,282 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 23:37:36,283 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 23:37:38,727 - __main__ - INFO - URL removida com sucesso (ID: 40)
+2025-03-28 23:50:08,961 - root - INFO - Stop signal received (SIGTERM). Exiting...
+2025-03-28 23:50:10,795 - pyrogram.dispatcher - INFO - Stopped 12 HandlerTasks
+2025-03-28 23:50:10,797 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 23:50:10,799 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 23:50:10,799 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 23:50:10,799 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 23:50:24,946 - __main__ - INFO - ----- Bot Started -----
+2025-03-28 23:50:25,271 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 23:50:25,351 - pyrogram.connection.connection - INFO - Connected! Production DC1 - IPv4
+2025-03-28 23:50:25,352 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 23:50:25,723 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 23:50:25,724 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 23:50:25,724 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 23:50:25,724 - pyrogram.session.session - INFO - Session started
+2025-03-28 23:50:25,726 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 23:50:25,923 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2025-03-28 23:51:12,709 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 23:51:12,780 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 23:51:12,782 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 23:51:13,115 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 23:51:13,115 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 23:51:13,115 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 23:51:13,116 - pyrogram.session.session - INFO - Session started
+2025-03-28 23:51:13,116 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 23:51:13,261 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 23:51:13,266 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 23:51:13,266 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 23:51:13,267 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 23:51:13,274 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 23:51:13,344 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 23:51:13,346 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 23:51:13,672 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 23:51:13,672 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 23:51:13,673 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 23:51:13,673 - pyrogram.session.session - INFO - Session started
+2025-03-28 23:51:13,674 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 23:51:17,210 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 23:51:17,211 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 23:51:17,212 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 23:51:17,213 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 23:51:17,215 - pyrogram.connection.transport.tcp.tcp - INFO - Send exception: ConnectionResetError Connection lost
+2025-03-28 23:51:19,867 - __main__ - INFO - URL deleted successfully (ID: 46)
+2025-03-28 23:52:48,839 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 23:52:48,912 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 23:52:48,914 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 23:52:49,246 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 23:52:49,249 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 23:52:49,250 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 23:52:49,252 - pyrogram.session.session - INFO - Session started
+2025-03-28 23:52:49,254 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 23:52:49,549 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 23:52:49,550 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 23:52:49,551 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 23:52:49,552 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 23:52:49,558 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 23:52:49,631 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 23:52:49,634 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 23:52:49,973 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 23:52:49,975 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 23:52:49,976 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 23:52:49,977 - pyrogram.session.session - INFO - Session started
+2025-03-28 23:52:49,979 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 23:52:54,127 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 23:52:54,128 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 23:52:54,129 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 23:52:54,129 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 23:52:56,469 - __main__ - INFO - URL deleted successfully (ID: 49)
+2025-03-28 23:54:08,722 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 23:54:08,793 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 23:54:08,793 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 23:54:09,122 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 23:54:09,123 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 23:54:09,123 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 23:54:09,123 - pyrogram.session.session - INFO - Session started
+2025-03-28 23:54:09,123 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 23:54:09,476 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 23:54:09,476 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 23:54:09,477 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 23:54:09,477 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 23:54:09,483 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-28 23:54:09,556 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-28 23:54:09,559 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-28 23:54:09,963 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-28 23:54:09,963 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-28 23:54:09,963 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-28 23:54:09,964 - pyrogram.session.session - INFO - Session started
+2025-03-28 23:54:09,964 - pyrogram.session.session - INFO - PingTask started
+2025-03-28 23:56:15,560 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-28 23:56:15,564 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-28 23:56:15,564 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-28 23:56:15,564 - pyrogram.session.session - INFO - Session stopped
+2025-03-28 23:56:18,037 - __main__ - INFO - URL deleted successfully (ID: 52)
+2025-03-29 00:01:35,980 - __main__ - ERROR - Error downloading file: 400, message='Got more than 8190 bytes (9623) when reading Header value is too long.', url='https://x.com/i/status/1905661994994213363'
+2025-03-29 00:02:42,364 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-29 00:02:42,446 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-29 00:02:42,447 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-29 00:02:42,824 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-29 00:02:42,825 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-29 00:02:42,825 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-29 00:02:42,825 - pyrogram.session.session - INFO - Session started
+2025-03-29 00:02:42,825 - pyrogram.session.session - INFO - PingTask started
+2025-03-29 00:02:43,151 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-29 00:02:43,152 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-29 00:02:43,152 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-29 00:02:43,153 - pyrogram.session.session - INFO - Session stopped
+2025-03-29 00:02:43,158 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-29 00:02:43,239 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-29 00:02:43,240 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-29 00:02:43,610 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-29 00:02:43,610 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-29 00:02:43,611 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-29 00:02:43,611 - pyrogram.session.session - INFO - Session started
+2025-03-29 00:02:43,612 - pyrogram.session.session - INFO - PingTask started
+2025-03-29 00:02:44,888 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-29 00:02:44,888 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-29 00:02:44,888 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-29 00:02:44,888 - pyrogram.session.session - INFO - Session stopped
+2025-03-29 00:04:02,154 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-29 00:04:02,248 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-29 00:04:02,250 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-29 00:04:02,675 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-29 00:04:02,676 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-29 00:04:02,676 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-29 00:04:02,676 - pyrogram.session.session - INFO - Session started
+2025-03-29 00:04:02,676 - pyrogram.session.session - INFO - PingTask started
+2025-03-29 00:04:03,055 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-29 00:04:03,057 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-29 00:04:03,058 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-29 00:04:03,060 - pyrogram.session.session - INFO - Session stopped
+2025-03-29 00:04:03,066 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-29 00:04:03,138 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-29 00:04:03,138 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-29 00:04:03,470 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-29 00:04:03,471 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-29 00:04:03,471 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-29 00:04:03,471 - pyrogram.session.session - INFO - Session started
+2025-03-29 00:04:03,473 - pyrogram.session.session - INFO - PingTask started
+2025-03-29 00:04:04,657 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-29 00:04:04,658 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-29 00:04:04,658 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-29 00:04:04,658 - pyrogram.session.session - INFO - Session stopped
+2025-03-29 00:04:07,257 - __main__ - INFO - URL deleted successfully (ID: 55)
+2025-03-29 00:05:23,591 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-29 00:05:23,661 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-29 00:05:23,661 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-29 00:05:23,991 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-29 00:05:23,991 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-29 00:05:23,991 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-29 00:05:23,991 - pyrogram.session.session - INFO - Session started
+2025-03-29 00:05:23,992 - pyrogram.session.session - INFO - PingTask started
+2025-03-29 00:05:24,273 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-29 00:05:24,273 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-29 00:05:24,274 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-29 00:05:24,274 - pyrogram.session.session - INFO - Session stopped
+2025-03-29 00:05:24,279 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-29 00:05:24,348 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-29 00:05:24,372 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-29 00:05:24,680 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-29 00:05:24,680 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-29 00:05:24,680 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-29 00:05:24,680 - pyrogram.session.session - INFO - Session started
+2025-03-29 00:05:24,681 - pyrogram.session.session - INFO - PingTask started
+2025-03-29 00:05:25,856 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-29 00:05:25,856 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-29 00:05:25,857 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-29 00:05:25,857 - pyrogram.session.session - INFO - Session stopped
+2025-03-29 00:05:28,396 - __main__ - INFO - URL deleted successfully (ID: 58)
+2025-03-29 00:06:11,063 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-29 00:06:11,147 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-29 00:06:11,149 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-29 00:06:11,526 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-29 00:06:11,528 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-29 00:06:11,535 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-29 00:06:11,535 - pyrogram.session.session - INFO - Session started
+2025-03-29 00:06:11,536 - pyrogram.session.session - INFO - PingTask started
+2025-03-29 00:06:11,890 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-29 00:06:11,891 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-29 00:06:11,891 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-29 00:06:11,891 - pyrogram.session.session - INFO - Session stopped
+2025-03-29 00:06:11,896 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-29 00:06:11,966 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-29 00:06:11,967 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-29 00:06:12,307 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-29 00:06:12,309 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-29 00:06:12,311 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-29 00:06:12,311 - pyrogram.session.session - INFO - Session started
+2025-03-29 00:06:12,313 - pyrogram.session.session - INFO - PingTask started
+2025-03-29 00:06:14,164 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-29 00:06:14,165 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-29 00:06:14,165 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-29 00:06:14,166 - pyrogram.session.session - INFO - Session stopped
+2025-03-29 00:06:16,957 - __main__ - INFO - URL deleted successfully (ID: 62)
+2025-03-29 00:07:28,294 - root - INFO - Stop signal received (SIGTERM). Exiting...
+2025-03-29 00:07:28,705 - pyrogram.dispatcher - INFO - Stopped 12 HandlerTasks
+2025-03-29 00:07:28,706 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-29 00:07:28,706 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-29 00:07:28,706 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-29 00:07:28,707 - pyrogram.session.session - INFO - Session stopped
+2025-03-29 00:07:37,109 - __main__ - INFO - ----- Bot Iniciado -----
+2025-03-29 00:07:37,395 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-29 00:07:37,482 - pyrogram.connection.connection - INFO - Connected! Production DC1 - IPv4
+2025-03-29 00:07:37,483 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-29 00:07:37,881 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-29 00:07:37,882 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-29 00:07:37,882 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-29 00:07:37,882 - pyrogram.session.session - INFO - Session started
+2025-03-29 00:07:37,884 - pyrogram.session.session - INFO - PingTask started
+2025-03-29 00:07:38,095 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2025-03-29 00:08:39,866 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-29 00:08:39,937 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-29 00:08:39,939 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-29 00:08:40,267 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-29 00:08:40,268 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-29 00:08:40,269 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-29 00:08:40,269 - pyrogram.session.session - INFO - Session started
+2025-03-29 00:08:40,271 - pyrogram.session.session - INFO - PingTask started
+2025-03-29 00:08:40,416 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-29 00:08:40,417 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-29 00:08:40,421 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-29 00:08:40,422 - pyrogram.session.session - INFO - Session stopped
+2025-03-29 00:08:40,435 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-29 00:08:40,507 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-29 00:08:40,510 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-29 00:08:40,838 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-29 00:08:40,840 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-29 00:08:40,841 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-29 00:08:40,844 - pyrogram.session.session - INFO - Session started
+2025-03-29 00:08:40,845 - pyrogram.session.session - INFO - PingTask started
+2025-03-29 00:09:07,785 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-29 00:09:07,787 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-29 00:09:07,788 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-29 00:09:07,789 - pyrogram.session.session - INFO - Session stopped
+2025-03-29 00:09:10,209 - __main__ - INFO - URL removida com sucesso (ID: 132)
+2025-03-29 00:10:21,878 - __main__ - ERROR - Erro ao adicionar legenda: Telegram says: [403 MESSAGE_AUTHOR_REQUIRED] - You are not the author of this message (caused by "messages.EditMessage")
+2025-03-29 00:42:39,041 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-29 00:42:39,127 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-29 00:42:39,128 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-29 00:42:39,510 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-29 00:42:39,510 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-29 00:42:39,510 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-29 00:42:39,510 - pyrogram.session.session - INFO - Session started
+2025-03-29 00:42:39,511 - pyrogram.session.session - INFO - PingTask started
+2025-03-29 00:42:40,017 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-29 00:42:40,018 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-29 00:42:40,018 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-29 00:42:40,018 - pyrogram.session.session - INFO - Session stopped
+2025-03-29 00:42:40,024 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-29 00:42:40,121 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-29 00:42:40,123 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-29 00:42:40,554 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-29 00:42:40,555 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-29 00:42:40,555 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-29 00:42:40,555 - pyrogram.session.session - INFO - Session started
+2025-03-29 00:42:40,557 - pyrogram.session.session - INFO - PingTask started
+2025-03-29 00:42:43,928 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-29 00:42:43,929 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-29 00:42:43,929 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-29 00:42:43,929 - pyrogram.session.session - INFO - Session stopped
+2025-03-29 00:42:47,009 - __main__ - INFO - URL removida com sucesso (ID: 65)
+2025-03-29 00:42:59,123 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-29 00:42:59,194 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-29 00:42:59,196 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-29 00:42:59,530 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-29 00:42:59,532 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-29 00:42:59,535 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-29 00:42:59,537 - pyrogram.session.session - INFO - Session started
+2025-03-29 00:42:59,540 - pyrogram.session.session - INFO - PingTask started
+2025-03-29 00:42:59,915 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-29 00:42:59,928 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-29 00:42:59,943 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-29 00:42:59,944 - pyrogram.session.session - INFO - Session stopped
+2025-03-29 00:42:59,949 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-29 00:43:00,032 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-29 00:43:00,037 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-29 00:43:00,411 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-29 00:43:00,412 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-29 00:43:00,412 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-29 00:43:00,413 - pyrogram.session.session - INFO - Session started
+2025-03-29 00:43:00,415 - pyrogram.session.session - INFO - PingTask started
+2025-03-29 00:43:03,536 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-29 00:43:03,537 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-29 00:43:03,537 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-29 00:43:03,537 - pyrogram.session.session - INFO - Session stopped
+2025-03-29 00:43:06,732 - __main__ - INFO - URL removida com sucesso (ID: 68)
+2025-03-29 00:43:57,005 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-29 00:43:57,096 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-29 00:43:57,102 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-29 00:43:57,492 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-29 00:43:57,492 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-29 00:43:57,493 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-29 00:43:57,493 - pyrogram.session.session - INFO - Session started
+2025-03-29 00:43:57,493 - pyrogram.session.session - INFO - PingTask started
+2025-03-29 00:43:57,940 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-29 00:43:57,940 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-29 00:43:57,940 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-29 00:43:57,940 - pyrogram.session.session - INFO - Session stopped
+2025-03-29 00:43:57,950 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-29 00:43:58,029 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-29 00:43:58,029 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-29 00:43:58,394 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-29 00:43:58,395 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-29 00:43:58,395 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-29 00:43:58,396 - pyrogram.session.session - INFO - Session started
+2025-03-29 00:43:58,400 - pyrogram.session.session - INFO - PingTask started
+2025-03-29 00:44:02,143 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-29 00:44:02,144 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-29 00:44:02,144 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-29 00:44:02,145 - pyrogram.session.session - INFO - Session stopped
+2025-03-29 00:44:05,032 - __main__ - INFO - URL removida com sucesso (ID: 71)
+2025-03-29 00:44:24,295 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-29 00:44:24,368 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-29 00:44:24,434 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-29 00:44:24,694 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-29 00:44:24,695 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-29 00:44:24,695 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-29 00:44:24,695 - pyrogram.session.session - INFO - Session started
+2025-03-29 00:44:24,695 - pyrogram.session.session - INFO - PingTask started
+2025-03-29 00:44:25,051 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-29 00:44:25,051 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-29 00:44:25,051 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-29 00:44:25,052 - pyrogram.session.session - INFO - Session stopped
+2025-03-29 00:44:25,055 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-29 00:44:25,124 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-29 00:44:25,126 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-29 00:44:25,454 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-29 00:44:25,455 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-29 00:44:25,458 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-29 00:44:25,460 - pyrogram.session.session - INFO - Session started
+2025-03-29 00:44:25,462 - pyrogram.session.session - INFO - PingTask started
+2025-03-29 00:44:28,119 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-29 00:44:28,121 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-29 00:44:28,123 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-29 00:44:28,125 - pyrogram.session.session - INFO - Session stopped
+2025-03-29 00:44:31,305 - __main__ - INFO - URL removida com sucesso (ID: 74)
+2025-03-29 00:44:45,862 - __main__ - ERROR - Erro HTTP 403 ao baixar arquivo
+2025-03-29 00:45:35,156 - root - INFO - Stop signal received (SIGTERM). Exiting...
+2025-03-29 00:45:48,030 - __main__ - INFO - ----- Bot Iniciado -----
+2025-03-29 00:45:48,375 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-29 00:45:48,446 - pyrogram.connection.connection - INFO - Connected! Production DC1 - IPv4
+2025-03-29 00:45:48,447 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-29 00:45:48,778 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-29 00:45:48,780 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-29 00:45:48,782 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-29 00:45:48,783 - pyrogram.session.session - INFO - Session started
+2025-03-29 00:45:48,786 - pyrogram.session.session - INFO - PingTask started
+2025-03-29 00:45:48,947 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2025-03-29 00:46:18,605 - __main__ - ERROR - Erro ao extrair metadados: Command '['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'default=noprint_wrappers=1:nokey=1', './downloads/dl_137.mp4']' returned non-zero exit status 1.
+2025-03-29 00:47:18,058 - __main__ - ERROR - Erro ao extrair metadados: Command '['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'default=noprint_wrappers=1:nokey=1', './downloads/dl_139.mp4']' returned non-zero exit status 1.
+2025-03-29 00:49:33,414 - __main__ - ERROR - Erro ao extrair metadados: Command '['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'default=noprint_wrappers=1:nokey=1', './downloads/dl_495.mp4']' returned non-zero exit status 1.
+2025-03-29 00:49:38,329 - __main__ - ERROR - Erro ao extrair metadados: Command '['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'default=noprint_wrappers=1:nokey=1', './downloads/dl_497.mp4']' returned non-zero exit status 1.
+2025-03-29 00:53:41,782 - root - INFO - Stop signal received (SIGTERM). Exiting...
+2025-03-29 00:53:44,362 - pyrogram.dispatcher - INFO - Stopped 12 HandlerTasks
+2025-03-29 00:53:44,363 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-29 00:53:44,363 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-29 00:53:44,363 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-29 00:53:44,363 - pyrogram.session.session - INFO - Session stopped
+2025-03-29 00:53:47,920 - __main__ - INFO - ----- Bot Iniciado -----
+2025-03-29 00:53:48,248 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-29 00:53:48,318 - pyrogram.connection.connection - INFO - Connected! Production DC1 - IPv4
+2025-03-29 00:53:48,319 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-29 00:53:48,649 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-29 00:53:48,650 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-29 00:53:48,651 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-29 00:53:48,651 - pyrogram.session.session - INFO - Session started
+2025-03-29 00:53:48,654 - pyrogram.session.session - INFO - PingTask started
+2025-03-29 00:53:48,810 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2025-03-29 00:53:59,394 - __main__ - WARNING - Erro ao extrair metadados com ffprobe, usando fallback: Command '['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'default=noprint_wrappers=1:nokey=1', './downloads/dl_499.mp4']' returned non-zero exit status 1.
+2025-03-29 00:53:59,514 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-29 00:53:59,585 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-29 00:53:59,587 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-29 00:53:59,918 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-29 00:53:59,920 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-29 00:53:59,921 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-29 00:53:59,922 - pyrogram.session.session - INFO - Session started
+2025-03-29 00:53:59,924 - pyrogram.session.session - INFO - PingTask started
+2025-03-29 00:54:00,008 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-29 00:54:00,010 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-29 00:54:00,011 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-29 00:54:00,013 - pyrogram.session.session - INFO - Session stopped
+2025-03-29 00:54:11,449 - __main__ - WARNING - Erro ao extrair metadados com ffprobe, usando fallback: Command '['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'default=noprint_wrappers=1:nokey=1', './downloads/dl_502.mp4']' returned non-zero exit status 1.
+2025-03-29 00:54:11,541 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-29 00:54:11,625 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-29 00:54:11,627 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-29 00:54:12,008 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-29 00:54:12,010 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-29 00:54:12,012 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-29 00:54:12,013 - pyrogram.session.session - INFO - Session started
+2025-03-29 00:54:12,015 - pyrogram.session.session - INFO - PingTask started
+2025-03-29 00:54:12,148 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-29 00:54:12,148 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-29 00:54:12,149 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-29 00:54:12,149 - pyrogram.session.session - INFO - Session stopped
+2025-03-29 00:54:17,869 - __main__ - WARNING - Erro ao extrair metadados com ffprobe, usando fallback: Command '['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'default=noprint_wrappers=1:nokey=1', './downloads/dl_505.mp4']' returned non-zero exit status 1.
+2025-03-29 00:54:17,957 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-29 00:54:18,043 - pyrogram.connection.connection - INFO - Connected! Production DC1 (media) - IPv4
+2025-03-29 00:54:18,044 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-29 00:54:18,445 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-29 00:54:18,445 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-29 00:54:18,446 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-29 00:54:18,446 - pyrogram.session.session - INFO - Session started
+2025-03-29 00:54:18,446 - pyrogram.session.session - INFO - PingTask started
+2025-03-29 00:54:18,539 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-29 00:54:18,540 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-29 00:54:18,540 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-29 00:54:18,541 - pyrogram.session.session - INFO - Session stopped
+2025-03-29 00:55:22,884 - root - INFO - Stop signal received (SIGTERM). Exiting...
+2025-03-29 00:55:23,751 - pyrogram.dispatcher - INFO - Stopped 12 HandlerTasks
+2025-03-29 00:55:23,753 - pyrogram.session.session - INFO - PingTask stopped
+2025-03-29 00:55:23,754 - pyrogram.connection.connection - INFO - Disconnected
+2025-03-29 00:55:23,754 - pyrogram.session.session - INFO - NetworkTask stopped
+2025-03-29 00:55:23,754 - pyrogram.session.session - INFO - Session stopped
+2025-03-29 00:55:31,150 - __main__ - INFO - ----- Bot Iniciado -----
+2025-03-29 00:55:31,765 - pyrogram.connection.connection - INFO - Connecting...
+2025-03-29 00:55:31,836 - pyrogram.connection.connection - INFO - Connected! Production DC1 - IPv4
+2025-03-29 00:55:31,839 - pyrogram.session.session - INFO - NetworkTask started
+2025-03-29 00:55:32,167 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-03-29 00:55:32,167 - pyrogram.session.session - INFO - Device: CPython 3.11.10 - Pyrogram 2.0.106
+2025-03-29 00:55:32,167 - pyrogram.session.session - INFO - System: Linux 6.2.16 (en)
+2025-03-29 00:55:32,167 - pyrogram.session.session - INFO - Session started
+2025-03-29 00:55:32,169 - pyrogram.session.session - INFO - PingTask started
+2025-03-29 00:55:32,331 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
